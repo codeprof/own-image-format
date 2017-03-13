@@ -3,9 +3,8 @@
 //Description: Helper functions to manipulate YCbCr colors
 //LICENCE:
 //This source is provided "as-is," without any express or implied warranty.
-//It is for educational purpose only. Therefore it is not allowed to use the whole source or parts of it in other software products.
-//Any redistribution is prohibited without the explicit permisson of the author (Stefan Moebius).
 //The author is not liable for any damage caused by this software.
+//Licenced under MIT licence
 using System;
 
 namespace SystemEx.ColorFormat
